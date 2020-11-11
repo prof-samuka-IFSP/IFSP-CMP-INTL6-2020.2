@@ -5,4 +5,5 @@ Este repositório contém todos os códigos desenvolvimentos em sala de aula do 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://github.com/hisamuka)
 
 ### Aulas
-1. [Tutorial Python](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/tutorial_python) 
+1a. [Introdução a Iinteligência Artificial](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/introducao_a_IA) 
+1b. [Tutorial Python](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/tutorial_python)
