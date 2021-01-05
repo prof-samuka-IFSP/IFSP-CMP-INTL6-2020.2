@@ -12,4 +12,6 @@ Este repositório contém todos os códigos desenvolvimentos em sala de aula do 
 4) [Pré-processamento de Dados - Parte 1](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/preprocessamento_de_dados) <br/>
 5) [Pré-processamento de Dados - Parte 2](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/preprocessamento_de_dados) <br/>
 6a) [Introdução à Machine Learning](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/blob/master/regressao_linear/INTI6%20-%20Aula%2006a%20-%20Introdu%C3%A7%C3%A3o%20a%20Machine%20Learning.pdf) <br/>
-6b) [Regressão Linear Simples - Parte 1](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/regressao_linear) <br/>
+6b) [Regressão Linear Simples](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/regressao_linear) <br/>
+7) [Regressão Linear Múltipla](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/blob/master/regressao_linear/linear_regression.ipynb) <br/>
+8) [KNN](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/blob/master/knn/k_nearest_neighbors.ipynb) <br/>
