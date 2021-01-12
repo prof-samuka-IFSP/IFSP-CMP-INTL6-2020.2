@@ -15,3 +15,4 @@ Este repositório contém todos os códigos desenvolvimentos em sala de aula do 
 6b) [Regressão Linear Simples](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/tree/master/regressao_linear) <br/>
 7) [Regressão Linear Múltipla](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/blob/master/regressao_linear/linear_regression.ipynb) <br/>
 8) [KNN](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/blob/master/knn/k_nearest_neighbors.ipynb) <br/>
+9) [Planejamento de Experimentos](https://github.com/xavecoding/IFSP-CMP-INTL6-2020.2/blob/master/knn/k_nearest_neighbors.ipynb) – Do tópico 'Métricas' em diante.<br/>
